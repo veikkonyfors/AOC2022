@@ -1,0 +1,1 @@
+cat input | sed -e's/A X/3/' -e's/A Y/4/' -e's/A Z/8/' -e's/B X/1/' -e's/B Y/5/' -e's/B Z/9/' -e's/C X/2/' -e's/C Y/6/' -e's/C Z/7/'
