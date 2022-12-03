@@ -4,9 +4,9 @@
 Used pointerize.sh to create a file of points earned for each strategy line.  
 Then used below to sum up points.  
 
-pappa@Pappa-ThinkPad-X240II:~/adv2022/day2$ paste -sd+ points | sed 's/+$//g' | bc  
+pappa@Pappa-ThinkPad-X240II:/home/pappa/adv2022/day2$ paste -sd+ points | sed 's/+$//g' | bc  
 8890  
-pappa@Pappa-ThinkPad-X240II:~/adv2022/day2$ 
+pappa@Pappa-ThinkPad-X240II:/home/pappa/adv2022/day2$ 
 
 
 # Puzzle2
